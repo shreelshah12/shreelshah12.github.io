@@ -1,17 +1,14 @@
 export const personalData = {
-  name: "ABU SAID",
-  profile: '/profile.png',
-  designation: "Software Developer",
-  description: "My name is ABU SAID. I am a professional and enthusiastic programmer in my daily life. I am a quick learner with a self-learning attitude. I love to learn and explore new technologies and am passionate about problem-solving. I love almost all the stacks of web application development and love to make the web more open to the world. My core skill is based on JavaScript and I love to do most of the things using JavaScript. I am available for any kind of job opportunity that suits my skills and interests.",
-  email: 'abusaid7388@gmail.com',
-  phone: '+8801608797655',
-  address: 'Middle Badda, Dhaka, Bangladesh - 1212 ',
-  github: 'https://github.com/said7388',
-  facebook: 'https://www.facebook.com/abusaid.riyaz/',
-  linkedIn: 'https://www.linkedin.com/in/abu-said-bd/',
-  twitter: 'https://twitter.com/said7388',
-  stackOverflow: 'https://stackoverflow.com/users/16840768/abu-said',
-  leetcode: "https://leetcode.com/said3812/",
+  name: "Shreel",
+  profile: '/IMG_4693.jpeg',
+  designation: " Software Engineer ",
+  description: "I'm Shreel Shah, a Software Data Engineer at Deloitte. My main expertise revolves around designing enterprise-level microservice applications and scalable API's. I am also working to develop complex ETL data pipelines/workflows and data warehousing solutions.",
+  description2: "My passions and interests lie within the realms of developing full-stack applications, scaling zero-to-one solutions, and driving impact through software.",
+  description3: "Always open to building something new and exciting. Feel free to reach out and let's work together to make something impactful!",
+  email: 'shreelshah12@gmail.com',
+  github: 'https://github.com/shreelshah12',
+  instagram: 'https://www.instagram.com/shreel_12/',
+  linkedIn: 'https://www.linkedin.com/in/shreelshah12/',
   devUsername: "said7388",
-  resume: "https://drive.google.com/file/d/1eyutpKFFhJ9X-qpQGKhUNnVRkB5Wer00/view?usp=sharing"
+  resume: '2024_Resume_Shreel_Shah.pdf'
 }

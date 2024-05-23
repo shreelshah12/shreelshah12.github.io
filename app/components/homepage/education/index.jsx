@@ -27,11 +27,19 @@ function Education() {
         <div className="flex  items-center">
           <span className="w-24 h-[2px] bg-[#1a1443]"></span>
           <span className="bg-[#1a1443] w-fit text-white p-2 px-5 text-xl rounded-md">
-            Educations
+            Education
           </span>
           <span className="w-24 h-[2px] bg-[#1a1443]"></span>
         </div>
+        
       </div>
+      <Image
+      src="/swe.jpeg"
+      alt="Hero"
+      width={450}
+      height={400}
+      className="absolute top:55% left:35% -z-10"
+      />
 
       <div className="py-8">
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 lg:gap-16">
@@ -54,11 +62,13 @@ function Education() {
                         height={200}
                         className="absolute bottom-0 opacity-80"
                       />
+                      
                       <div className="flex justify-center">
                         <p className="text-xs sm:text-sm text-[#16f2b3]">
                           {education.duration}
                         </p>
                       </div>
+                      
                       <div className="flex items-center gap-x-8 px-3 py-5">
                         <div className="text-violet-500  transition-all duration-300 hover:scale-125">
                           <BsPersonWorkspace size={36} />
@@ -69,6 +79,7 @@ function Education() {
                           </p>
                           <p className="text-sm sm:text-base">{education.institution}</p>
                         </div>
+                        
                       </div>
                     </div>
                   </GlowCard>

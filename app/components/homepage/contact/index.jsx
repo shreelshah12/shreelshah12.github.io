@@ -8,7 +8,7 @@ import { FaXTwitter } from "react-icons/fa6";
 import { IoLogoGithub, IoMdCall } from "react-icons/io";
 import { MdAlternateEmail } from "react-icons/md";
 import ContactForm from './contact-form';
-
+{/*}
 function ContactSection() {
   return (
     <div id="contact" className="my-12 lg:my-16 relative mt-24 text-white">
@@ -88,3 +88,4 @@ function ContactSection() {
 };
 
 export default ContactSection;
+*/}
