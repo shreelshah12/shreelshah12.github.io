@@ -32,7 +32,7 @@ export default async function Home() {
       <Experience />
       <Projects />
       <Skills />
-      <Blog blogs={blogs} />
+     
     </>
   )
 };
