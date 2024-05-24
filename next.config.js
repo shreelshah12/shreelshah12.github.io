@@ -1,4 +1,4 @@
-/*const path = require('path')
+const path = require('path')
  
 module.exports = {
   sassOptions: {
@@ -7,4 +7,4 @@ module.exports = {
   images: {
     domains: ['res.cloudinary.com', 'media.dev.to']
   }
-}*/
+}
