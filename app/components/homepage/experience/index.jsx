@@ -35,17 +35,15 @@ function Experience() {
       <div className="py-8">
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 lg:gap-16">
           <div className="flex justify-center items-start">
-            <div className="w-full h-full">
-              <AnimationLottie animationPath={experience} />
-            </div>
+            
           </div>
-          
+
           <Image
-        src="/software.jpeg"
+        src="/coding.jpg"
         alt="Hero"
         width={500}
-        height={5500}
-        className="absolute top:100% left:80% -z-10"
+        height={500}
+        className="absolute top:150% left:100% -z-10"
       />
           <div>
             <div className="flex flex-col gap-6">
