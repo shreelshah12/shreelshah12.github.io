@@ -1,7 +1,4 @@
-import ayla from '/public/image/ayla.jpg';
-import crefin from '/public/image/crefin.jpg';
-import realEstate from '/public/image/real-estate.jpg';
-import travel from '/public/image/travel.jpg';
+
 
 export const projectsData = [
     {
@@ -12,7 +9,7 @@ export const projectsData = [
         role: 'Software Data Engineer',
         code: '',
         demo: '',
-        image: crefin,
+        //image: crefin,
     },
     {
         id: 2,
@@ -22,7 +19,7 @@ export const projectsData = [
         role: 'AI/ML Data Scientist',
         code: '',
         demo: '',
-        image: travel,
+        //image: travel,
     },
     {
         id: 3,
@@ -32,7 +29,7 @@ export const projectsData = [
         code: '',
         role: 'Software Engineer, Intern',
         demo: '',
-        image: realEstate,
+        //image: realEstate,
     },
     {
         id: 4,
@@ -41,7 +38,7 @@ export const projectsData = [
         tools: ['Python', 'PySpark', 'SQL', 'Hadoop', 'TensorFlow', '5G', 'PowerBI'],
         code: '',
         demo: '',
-        image: ayla,
+        //image: ayla,
         role: 'Predictive Data Scientist, Intern',
     }
 ];
