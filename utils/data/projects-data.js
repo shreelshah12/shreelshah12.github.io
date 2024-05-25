@@ -14,7 +14,7 @@ export const projectsData = [
     {
         id: 2,
         name: 'Nittany AI Alliance',
-        description: '',
+        description: 'Worked alongside a team of data scientists and software engineers to build an automated system using NLP, NLU, and Computer Vision to construct a graph network to detect misinformation in the social media space. Designed and developed an Android emulator using the Android Sensor API on top of machine learning models to create a reward-based system that incentivized users to improve their sleeping habits and patterns.',
         tools: ['Python', 'GraphQL', "SQL", "Flutter", "Android", "PyTorch", "TensorFlow", "Git"],
         role: 'AI/ML Data Scientist',
         code: '',

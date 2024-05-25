@@ -45,6 +45,7 @@ function Experience() {
         height={500}
         className="absolute top:150% left:100% -z-10"
       />
+      
           <div>
             <div className="flex flex-col gap-6">
               {
@@ -76,14 +77,19 @@ function Experience() {
                           </p>
                         </div>
                       </div>
+                      
                     </div>
                   </GlowCard>
                 ))
               }
             </div>
+            
           </div>
+          
         </div>
+        
       </div>
+      
     </div>
   );
 };
