@@ -24,7 +24,7 @@ export const projectsData = [
     {
         id: 3,
         name: 'Deloitte',
-        description: '',
+        description: 'Worked as a Software Engineer/Data Science intern on the Customs and Border Patrol Account. Utilized Python and SQL to forecast international air travel for airport staffing requirements and CBP revenue as well as refined legacy machine learning models for enhanced accuracy. Worked with a lead engineer and solution architect to implement an end-to-end data pipeline for a key metrics dashboard using Python, Amazon RDS, and Power BI for reporting.',
         tools: ['Python', 'SQL', 'MongoDB', 'R', 'Amazon RDS', 'Amazon S3', 'PowerBI', 'Tableau'],
         code: '',
         role: 'Software Engineer, Intern',
@@ -34,7 +34,7 @@ export const projectsData = [
     {
         id: 4,
         name: 'Verizon',
-        description: "",
+        description: "Worked as a Data Science intern on the 5G Network Partnerships and AI/ML teams under the Verizon Consumer Group. Utilized Python and SQL to create analytical roadmaps for the 5G transition and implementation across the northeast U.S. which were directly presented to executive leadership and regional managers. Worked with a Senior Machine Learning Engineer on a recommendation engine (deployed to production) for the Verizon products and accessories site based on a user's order history, search patterns, and ongoing promotions to drive sales.",
         tools: ['Python', 'PySpark', 'SQL', 'Hadoop', 'TensorFlow', '5G', 'PowerBI'],
         code: '',
         demo: '',
