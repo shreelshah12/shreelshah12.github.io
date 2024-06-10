@@ -10,5 +10,5 @@ export const personalData = {
   instagram: 'https://www.instagram.com/shreel_12/',
   linkedIn: 'https://www.linkedin.com/in/shreelshah12/',
   medium: 'https://medium.com/@shreelshah12',
-  resume: '2024_Resume_Shreel_Shah.pdf'
+  resume: 'June2024_Resume_Shreel_Shah.pdf'
 }
