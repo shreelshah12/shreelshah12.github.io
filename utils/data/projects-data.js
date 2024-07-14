@@ -4,9 +4,9 @@ export const projectsData = [
     {
         id: 1,
         name: 'Deloitte',
-        description: "Working as a backend software and data engineer to build out complex data pipelines using SSIS, SQL, and ETL. Migrating separate workflows into automated ETL processes to increase runtime and operational efficiency and ingest data from 40+ sources. Also architecting microservice applications and scalable API's focusing on critical cybersecurity vulnerability scans/threats and machine learning based tools.",
+        description: "Working as a backend software engineer to build out complex data pipelines using SSIS, SQL, and ETL. Migrating separate workflows into automated ETL processes to increase runtime and operational efficiency and ingest data from 40+ sources. Architecting microservice applications and scalable API's focusing on critical cybersecurity vulnerability scans and machine learning based tools.",
         tools: ['Python', 'FastAPI', 'Flask', 'Postman', 'SQL', 'SSIS', 'Powershell', 'C#', 'Azure', 'Git'],
-        role: 'Software Data Engineer',
+        role: 'Software Engineer',
         code: '',
         demo: '',
         //image: crefin,
@@ -24,7 +24,7 @@ export const projectsData = [
     {
         id: 3,
         name: 'Deloitte',
-        description: 'Worked as a Software Engineer/Data Science intern on the Customs and Border Patrol Account. Utilized Python and SQL to forecast international air travel for airport staffing requirements and CBP revenue as well as refined legacy machine learning models for enhanced accuracy. Worked with a lead engineer and solution architect to implement an end-to-end data pipeline for a key metrics dashboard using Python, Amazon RDS, and Power BI for reporting.',
+        description: 'Worked as a Software Engineer intern on the Customs and Border Patrol Account. Engineered a web application to allow the U.S. Customs and Border Patrol to forecast airport staffing requirements using Python, SQL, and AWS Forecast. Worked with a lead engineer and solution architect to implement an end-to-end data pipeline for a key metrics dashboard using Python, Amazon RDS, and Power BI for reporting.',
         tools: ['Python', 'SQL', 'MongoDB', 'R', 'Amazon RDS', 'Amazon S3', 'PowerBI', 'Tableau'],
         code: '',
         role: 'Software Engineer, Intern',
