@@ -30,7 +30,7 @@ function HeroSection() {
             <span className=" text-pink-500">{personalData.name}</span>
             {`!  `} <br /> I'm a 
             <span className=" text-[#16f2b3]">{personalData.designation}</span>
-            at <span className=" text-pink-500">Deloitte</span>.
+            at <span className=" text-pink-500">Databricks</span>.
           </h1>
           
           <div className="my-12 flex items-center gap-5">
@@ -112,7 +112,7 @@ function HeroSection() {
               </div>
               <div>
                 <span className="ml-4 lg:ml-8 mr-2 text-white">currentLocation:</span>
-                <span className="text-orange-400">NYC Metropolitan Area</span>
+                <span className="text-orange-400">NYC</span>
                 <span className="text-gray-400">,</span>
               </div>
               <div className="ml-4 lg:ml-8 mr-2">
@@ -120,15 +120,15 @@ function HeroSection() {
                 <span className="text-gray-400">{`['`}</span>
                 <span className="text-amber-300">Full-Stack Development</span>
                 <span className="text-gray-400">{"', '"}</span>
-                <span className="text-amber-300">Zero-To-One Products</span>
+                <span className="text-amber-300">Cloud Engineering</span>
+                <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">DevOps</span>
                 <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">Big Data</span>
                 <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">Data Engineering</span>
                 <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">Analytics Engineering</span>
-                <span className="text-gray-400">{"', '"}</span>
-                <span className="text-amber-300">DevOps</span>
                 <span className="text-gray-400">{"'],"}</span>
               </div>
 
@@ -158,7 +158,7 @@ function HeroSection() {
               
               <div>
                 <span className="ml-4 lg:ml-8 mr-2 text-white">currentRole:</span>
-                <span className="text-orange-400">Software Engineer</span>
+                <span className="text-orange-400">Cloud and Data Engineer</span>
               </div>
               
               <div><span className="text-gray-400">{`};`}</span></div>

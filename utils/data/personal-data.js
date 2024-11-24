@@ -1,9 +1,9 @@
 export const personalData = {
   name: "Shreel",
   profile: '/IMG_4693.jpeg',
-  designation: " Software Engineer ",
-  description: "I'm Shreel Shah, a Software Engineer at Deloitte. My main expertise revolves around designing enterprise-level microservice applications and scalable API's. I am also working to develop and maintain complex ETL data pipelines and data warehousing solutions.",
-  description2: "My passions and interests lie within the realms of developing full-stack applications, scaling zero-to-one products, and driving impact through software.",
+  designation: " Cloud & Data Engineer ",
+  description: "I'm Shreel Shah, a Customer Cloud & Data Engineer at Databricks. My main expertise revolves around designing enterprise-level microservice applications and scalable API's. I am also working to develop and maintain complex ETL data pipelines and data warehousing solutions.",
+  description2: "My passions and interests lie within the realms of developing full-stack applications, scaling use cases for AI/ML, and driving impact through software.",
   description3: "Always open to building something new and exciting. Reach out and let's work to make something impactful!",
   email: 'shreelshah12@gmail.com',
   github: 'https://github.com/shreelshah12',
