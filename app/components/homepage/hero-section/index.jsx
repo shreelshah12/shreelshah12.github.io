@@ -118,17 +118,17 @@ function HeroSection() {
               <div className="ml-4 lg:ml-8 mr-2">
                 <span className=" text-white">interests:</span>
                 <span className="text-gray-400">{`['`}</span>
-                <span className="text-amber-300">Full-Stack Development</span>
-                <span className="text-gray-400">{"', '"}</span>
-                <span className="text-amber-300">Cloud Engineering</span>
-                <span className="text-gray-400">{"', '"}</span>
-                <span className="text-amber-300">DevOps</span>
-                <span className="text-gray-400">{"', '"}</span>
-                <span className="text-amber-300">Big Data</span>
+                <span className="text-amber-300">Software Engineering</span>
                 <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">Data Engineering</span>
                 <span className="text-gray-400">{"', '"}</span>
-                <span className="text-amber-300">Analytics Engineering</span>
+                <span className="text-amber-300">AI/ML</span>
+                <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">Analytics</span>
+                <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">Cloud</span>
+                <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">DevOps</span>
                 <span className="text-gray-400">{"'],"}</span>
               </div>
 
@@ -139,7 +139,7 @@ function HeroSection() {
                 <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">Java</span>
                 <span className="text-gray-400">{"', '"}</span>
-                <span className="text-amber-300">C#</span>
+                <span className="text-amber-300">C</span>
                 <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">Node.js</span>
                 <span className="text-gray-400">{"', '"}</span>
@@ -149,9 +149,9 @@ function HeroSection() {
                 <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">PostgreSQL</span>
                 <span className="text-gray-400">{"', '"}</span>
-                <span className="text-amber-300">Azure</span>
+                <span className="text-amber-300">Spark</span>
                 <span className="text-gray-400">{"', '"}</span>
-                <span className="text-amber-300">AWS</span>
+                <span className="text-amber-300">Scala</span>
                 <span className="text-gray-400">{"'],"}</span>
               </div>
               

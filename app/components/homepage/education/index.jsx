@@ -38,7 +38,7 @@ function Education() {
       alt="Hero"
       width={450}
       height={400}
-      className="absolute top:55% left:35% -z-10"
+      className="absolute top-1/2 left-1/4 transform -translate-x-1/2 -translate-y-1/4 -z-10"
       />
 
       <div className="py-8">

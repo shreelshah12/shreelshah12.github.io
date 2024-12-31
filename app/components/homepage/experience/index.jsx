@@ -43,7 +43,14 @@ function Experience() {
         alt="Hero"
         width={500}
         height={500}
-        className="absolute top:150% left:100% -z-10"
+        className="absolute top-1/3 left-1/4 transform -translate-x-1/2 -translate-y-1/4 -z-10"
+      />
+      <Image
+        src="/swe0101.jpeg"
+        alt="Hero"
+        width={500}
+        height={500}
+        className="absolute top-3/4 left-1/4 transform -translate-x-1/2 -translate-y-1/4 -z-10"
       />
       
           <div>
