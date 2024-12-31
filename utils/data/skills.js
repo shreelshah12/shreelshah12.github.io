@@ -12,6 +12,7 @@ export const skillsData = [
   'PostgreSQL',
   'Azure',
   'AWS',
+  'GCP',
   'Docker',
   'Git'
 ]
