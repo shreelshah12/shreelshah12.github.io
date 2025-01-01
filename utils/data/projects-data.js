@@ -4,8 +4,8 @@ export const projectsData = [
     {
         id: 1,
         name: 'Deloitte',
-        description: "Working as a backend software engineer to build out complex data pipelines using SSIS, SQL, and ETL. Migrating separate workflows into automated ETL processes to increase runtime and operational efficiency and ingest data from 40+ sources. Architecting microservice applications and scalable API's focusing on critical cybersecurity vulnerability scans and machine learning based tools.",
-        tools: ['Python', 'FastAPI', 'Flask', 'Postman', 'SQL', 'Powershell', 'C#', 'Azure', 'Git'],
+        description: "Backend engineer focused on designing and developing scalable APIs and microservices. Developed and maintained complex ETL data pipelines for downstream AI/ML applications and BI analytics.",
+        tools: ['Python', 'FastAPI', 'Flask', 'Django', 'SQL', 'Powershell', 'C#', 'Git', 'Azure DevOps'],
         role: 'Software Engineer',
         code: '',
         demo: '',
