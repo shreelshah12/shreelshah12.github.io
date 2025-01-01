@@ -16,7 +16,7 @@ export const projectsData = [
         name: 'Nittany AI Alliance',
         description: 'Worked alongside a team of data scientists and software engineers to build an automated system using NLP, NLU, and Computer Vision to construct a graph network to detect misinformation in the social media space. Designed and developed an Android emulator using the Android Sensor API on top of machine learning models to create a reward-based system that incentivized users to improve their sleeping habits and patterns.',
         tools: ['Python', 'GraphQL', "PyTorch", "TensorFlow", "SQL"],
-        role: 'AI/ML Data Scientist',
+        role: 'ML Engineer',
         code: '',
         demo: '',
         //image: travel,
@@ -39,7 +39,7 @@ export const projectsData = [
         code: '',
         demo: '',
         //image: ayla,
-        role: 'Predictive Data Scientist, Intern',
+        role: 'Data Scientist, Intern',
     }
 ];
 

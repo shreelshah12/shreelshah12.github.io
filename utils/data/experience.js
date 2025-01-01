@@ -1,7 +1,7 @@
 export const experiences = [
   {
     id: 1,
-    title: 'Customer Cloud & Data Engineer',
+    title: 'Cloud & Data Engineer',
     company: "Databricks",
     duration: "(Nov 2024 - Present)"
   },
@@ -13,7 +13,7 @@ export const experiences = [
   },
   {
     id: 3,
-    title: "AI/ML Data Scientist",
+    title: "Machine Learning Engineer",
     company: "Nittany AI Alliance",
     duration: "(Jan 2022 - Dec 2022)"
   },
@@ -25,7 +25,7 @@ export const experiences = [
   },
   {
     id: 5,
-    title: "Predictive Data Scientist, Intern",
+    title: "Data Scientist, Intern",
     company: "Verizon",
     duration: "(Jun 2021 - Aug 2021)"
   }
