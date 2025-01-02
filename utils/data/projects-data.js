@@ -14,8 +14,8 @@ export const projectsData = [
     {
         id: 2,
         name: 'Nittany AI Alliance',
-        description: 'Worked alongside a team of data scientists and software engineers to build an automated system using NLP, NLU, and Computer Vision to construct a graph network to detect misinformation in the social media space. Designed and developed an Android emulator using the Android Sensor API on top of machine learning models to create a reward-based system that incentivized users to improve their sleeping habits and patterns.',
-        tools: ['Python', 'GraphQL', "PyTorch", "TensorFlow", "SQL"],
+        description: 'Developed an advanced system leveraging Natural Language Processing and Computer Vision to construct graph networks for misinformation detection on social media. Designed and fine-tuned machine learning pipelines for data preprocessing, feature extraction, and model optimization, ensuring scalability and high accuracy in real-time analysis.',
+        tools: ['Python', 'GraphQL', "PyTorch", "TensorFlow", "spaCy"],
         role: 'ML Engineer',
         code: '',
         demo: '',
@@ -24,8 +24,8 @@ export const projectsData = [
     {
         id: 3,
         name: 'Deloitte',
-        description: 'Worked as a Software Engineer intern on the Customs and Border Patrol Account. Engineered a web application to allow the U.S. Customs and Border Patrol to forecast airport staffing requirements using Python, SQL, and AWS Forecast. Worked with a lead engineer and solution architect to implement an end-to-end data pipeline for a key metrics dashboard using Python, Amazon RDS, and Power BI for reporting.',
-        tools: ['Python', 'SQL', 'MongoDB', 'R', 'Amazon RDS', 'Amazon S3', 'PowerBI', 'Tableau'],
+        description: 'Developed a staffing forecast tool using Python, Flask, SQL, and AWS Forecast. Built an end-to-end data pipeline with Python and Amazon RDS, integrating Power BI for real-time metrics reporting and visualizations.',
+        tools: ['Python', 'R', 'Scikit-learn', 'Flask', 'SQL', 'Amazon RDS', 'Amazon S3', 'AWS Lambda', 'PowerBI'],
         code: '',
         role: 'Software Engineer, Intern',
         demo: '',
@@ -34,7 +34,7 @@ export const projectsData = [
     {
         id: 4,
         name: 'Verizon',
-        description: "Worked as a Data Science intern on the 5G Network Partnerships and AI/ML teams under the Verizon Consumer Group. Utilized Python and SQL to create analytical roadmaps for the 5G transition and implementation across the northeast U.S. which were directly presented to executive leadership and regional managers. Worked with a Senior Machine Learning Engineer on a recommendation engine (deployed to production) for the Verizon products and accessories site based on a user's order history, search patterns, and ongoing promotions to drive sales.",
+        description: "Supported the Network Partnerships and AI/ML teams within the Verizon Consumer Group. Developed analytical roadmaps for nationwide 5G deployment using Python and SQL, presenting insights to leadership. Collaborated on a production-ready recommendation engine, leveraging user data and promotions to optimize sales on the Verizon products site.",
         tools: ['Python', 'PySpark', 'SQL', 'Hadoop', 'TensorFlow', 'PowerBI'],
         code: '',
         demo: '',
