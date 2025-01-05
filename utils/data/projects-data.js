@@ -14,7 +14,7 @@ export const projectsData = [
     {
         id: 2,
         name: 'Nittany AI Alliance',
-        description: 'Developed an advanced system leveraging Natural Language Processing and Computer Vision to construct graph networks for misinformation detection on social media. Designed and fine-tuned machine learning pipelines for data preprocessing, feature extraction, and model optimization, ensuring scalability and high accuracy in real-time analysis.',
+        description: 'Developed an advanced system  using natural language processing and computer vision to construct graph networks for misinformation detection on social media. Designed and fine-tuned machine learning pipelines for data preprocessing, feature extraction, and model optimization, ensuring scalability and high accuracy in real-time analysis.',
         tools: ['Python', 'GraphQL', "PyTorch", "TensorFlow", "spaCy"],
         role: 'ML Engineer',
         code: '',
@@ -24,7 +24,7 @@ export const projectsData = [
     {
         id: 3,
         name: 'Deloitte',
-        description: 'Developed a staffing forecast tool using Python, Flask, SQL, and AWS Forecast. Built an end-to-end data pipeline with Python and Amazon RDS, integrating Power BI for real-time metrics reporting and visualizations.',
+        description: 'Developed a staffing forecast tool using Python, Flask, SQL, and AWS Forecast. Built an end-to-end data pipeline with Python, Spark, AWS Glue and integrating Power BI for real-time metrics reporting and visualizations.',
         tools: ['Python', 'R', 'Scikit-learn', 'Flask', 'SQL', 'Amazon RDS', 'Amazon S3', 'AWS Lambda', 'PowerBI'],
         code: '',
         role: 'Software Engineer, Intern',
@@ -34,7 +34,7 @@ export const projectsData = [
     {
         id: 4,
         name: 'Verizon',
-        description: "Supported the Network Partnerships and AI/ML teams within the Verizon Consumer Group. Developed analytical roadmaps for nationwide 5G deployment using Python and SQL, presenting insights to leadership. Collaborated on a production-ready recommendation engine, leveraging user data and promotions to optimize sales on the Verizon products site.",
+        description: "Supported the Network Partnerships and AI/ML teams within the Verizon Consumer Group. Developed analytical roadmaps for nationwide 5G deployment using Python and SQL, presenting insights to senior leadership. Collaborated on a production-ready recommendation engine, leveraging user data and key metrics to optimize sales on the Verizon products site.",
         tools: ['Python', 'PySpark', 'SQL', 'Hadoop', 'TensorFlow', 'PowerBI'],
         code: '',
         demo: '',
