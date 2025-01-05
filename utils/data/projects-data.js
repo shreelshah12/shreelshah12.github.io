@@ -24,7 +24,7 @@ export const projectsData = [
     {
         id: 3,
         name: 'Deloitte',
-        description: 'Developed a staffing forecast tool using Python, Flask, SQL, and AWS Forecast. Built an end-to-end data pipeline with Python, Spark, AWS Glue and integrating Power BI for real-time metrics reporting and visualizations.',
+        description: 'Developed a staffing forecast tool using Python, Flask, SQL, and AWS Forecast. Built an end-to-end data pipeline with Python, Spark, AWS Glue, and integrated Power BI for real-time metrics reporting and visualizations.',
         tools: ['Python', 'R', 'Scikit-learn', 'Flask', 'SQL', 'Amazon RDS', 'Amazon S3', 'AWS Lambda', 'PowerBI'],
         code: '',
         role: 'Software Engineer, Intern',
